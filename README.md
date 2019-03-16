@@ -1,5 +1,5 @@
 # Programming-with-Mario
-Created by: Danielle Espiritu <br /> <br />
+<h3>Created by: Danielle Espiritu</h3>
 
 ![image](https://user-images.githubusercontent.com/28699887/54081734-774ec980-4344-11e9-8c22-5f89f788c6f1.png)
 
